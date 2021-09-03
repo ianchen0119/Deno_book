@@ -19,6 +19,10 @@ description: 本書由 Deno 台灣社群提供，是第一本繁體中文的 Den
 
 > 我的 Email: [ychen.desl@gmail.com](mailto:ychen.desl@gmail.com)
 
+### 徵求貢獻者
+
+歡迎對社群貢獻有興趣的同好協助將 Deno 1.8 之後的內容貢獻到本書中，欲貢獻者請在 [Repo](https://github.com/ianchen0119/Deno_book) 提出拉取請求並說明更新了哪些內容，感激不盡!
+
 ### 文章風格
 
 * 引用
@@ -46,7 +50,7 @@ description: 本書由 Deno 台灣社群提供，是第一本繁體中文的 Den
 
 ### 關於作者
 
-我是Ian，目前就讀於北科電子四年級，主要技能包偏向前後端開發，之後會朝區塊鏈、資安領域發展。
+我是 Ian，目前就讀交大資工所碩一，主要技能包偏向前後端開發，之後會朝區塊鏈、資安領域發展。
 
 #### 聯絡我
 
